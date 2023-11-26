@@ -1,0 +1,58 @@
+.desktop {width: 1440px; height: 1440px;}
+
+.inline {display: inline-block;}
+
+.orange {color:hsl(26, 100%, 55%)}
+
+#position1 {margin-left: 350px;}
+
+#icon {bottom: 50px; height: 50px; margin-left: 50px;}
+
+#shop {margin-bottom: 15px;}
+
+#logo {margin-right: 50px;}
+
+#compras {font-family: 'Kumbh Sans'}
+
+#position2 {border-collapse: separate; border-spacing: 10px;}
+
+#position3 {padding: 30px}
+
+.cinza {color: hsl(219, 9%, 45%); ;}
+
+#preço {font-size: 100px;}
+
+#desconto {color: hsl(26, 100%, 55%); background-color:hsla(0, 0%, 65%, 0.466); margin-left: 10px; border-radius: 40px;
+border-style: solid;
+border-color: hsla(0, 1%, 82%, 0.466);}
+
+.antigo_preço {color: rgb(161, 161, 161); margin-bottom: 20px;}
+
+#menos {margin-right: 20px; margin-bottom: 3px;}
+
+#mais {margin-left: 20px;}
+
+#quantidade {background-color: hsl(223, 64%, 98%); border-radius: 60px;}
+
+#cart {height: 20px; 
+    width: 20px;
+    object-position: top right bottom;}
+
+#adicionar {
+    background-color: hsl(26, 100%, 55%);
+    border-radius: 100px;
+    border-width: 10px 30px 10px 30px; /* Superior, direito, inferior, esquerdo */
+    border-style: solid; /* Defina o estilo da borda como 'solid' */
+    border-color: hsl(26, 100%, 55%);
+    text-align: center;}
+    
+.tamanho1 {height: 450px; width: 457px;}
+
+#imagens {margin-left: 100px; margin-bottom: 100px;}
+
+.conteudo {
+    display: inline-block;}
+
+#raddius {border-radius: 10px;}
+
+.tamanho2 {width: 90px; height: 91px;}
